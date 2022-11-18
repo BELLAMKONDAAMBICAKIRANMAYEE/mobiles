@@ -1,0 +1,45 @@
+.bgimg{
+    background: url("https://res.cloudinary.com/digdliiab/image/upload/v1668665278/technology-digital-wave-background_34629-925_onjcm7.jpg");
+    height:200vh;
+    background-size: cover;
+}
+.mobilehead{
+    color:white;
+    padding:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.layoutcard{
+    background-color:skyblue;
+    border-radius: 8px;
+    padding: 25px;
+    margin: 5em;
+}
+.brandscont{
+    color:rgb(165, 48, 48);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.paragraph{
+    color:green ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.branding{
+    width:100px;
+    height: 100px;
+}
+.ik{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.layoutcard:hover{
+    transform: scale(1.08);
+
+}
+.branding:hover{
+    transform: scale(1.08);
+}

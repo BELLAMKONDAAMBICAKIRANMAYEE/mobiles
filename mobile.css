@@ -1,0 +1,28 @@
+.bgimg{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1668577079/phone-screen-with-abstract-marble-aesthetic_53876-145553_nihisk.jpg");
+     height: 100vh;
+     width:100vw;
+     background-size: cover;
+}
+.layoutcard{
+    background-color:bisque;
+    height:200px;
+    padding:15px ;
+    border-top-left-radius:15px ;
+    border-top-right-radius:15px ;
+}
+.heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(125, 119, 119);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.branding{
+    width: 100px;
+    height:100px;
+}
